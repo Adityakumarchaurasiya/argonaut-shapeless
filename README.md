@@ -1,4 +1,4 @@
-# argonaut-shapeless
+# argonaut-shapeless for open source
 
 Automatic [argonaut](https://github.com/argonaut-io/argonaut) codec derivation with [shapeless](https://github.com/milessabin/shapeless)
 
